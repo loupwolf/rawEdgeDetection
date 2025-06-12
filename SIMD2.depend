@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1718034678 source:c:\users\home\onedrive\documents\etudes\master\ma1\q2\elec-h473\lab\simd\2nd try\simd2\simd2\issimd.c
+	"header.h"
+
+1718034677 c:\users\home\onedrive\documents\etudes\master\ma1\q2\elec-h473\lab\simd\2nd try\simd2\simd2\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1718034679 source:c:\users\home\onedrive\documents\etudes\master\ma1\q2\elec-h473\lab\simd\2nd try\simd2\simd2\main.c
+	"header.h"
+
+1718034680 source:c:\users\home\onedrive\documents\etudes\master\ma1\q2\elec-h473\lab\simd\2nd try\simd2\simd2\notsimd.c
+	"header.h"
+
